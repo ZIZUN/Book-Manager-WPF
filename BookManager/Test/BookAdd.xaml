@@ -1,0 +1,81 @@
+﻿<Window x:Class="Test.BookAdd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test"
+        mc:Ignorable="d"
+        
+        WindowStartupLocation="CenterScreen"
+        FontFamily="Calibri"
+        FontSize="16"
+        ResizeMode="NoResize" Icon="save.png" WindowStyle="None"
+        Title="BookAdd" Height="354.426" Width="378.434">
+    <Window.Resources>
+        <SolidColorBrush Color="#FF6969FF" x:Key="Top_Color"/>
+        <SolidColorBrush Color="#FFEAEAFF" x:Key="Top2_Color"/>
+        <SolidColorBrush Color="#FFA5B9F0" x:Key="Overall_Color"/>
+        <SolidColorBrush Color="White" x:Key="Font_White_Color"/>
+
+    </Window.Resources>
+    <Grid>
+        <StackPanel  Background="{StaticResource Overall_Color}">
+            <Grid Height="30" VerticalAlignment="Top" Background="{StaticResource Top_Color}" MouseDown="Grid_MouseDown">
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="Adder" FontSize="21" Foreground="{StaticResource Font_White_Color}"/>
+
+            </Grid>
+            <Grid VerticalAlignment="Bottom" Margin="7" Height="570"  >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="6*"/>
+                    <ColumnDefinition/>
+
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="9*"/>
+
+                </Grid.RowDefinitions>
+
+                <TextBox Margin="2" x:Name="TB_ADD_Search"  Grid.Row="0" Grid.Column="0" Text="검색하기" />
+                <Button Margin="2" x:Name="TB_ADD_Research" Grid.Row="0" Grid.Column="1" Content="검색" Click="TB_ADD_Research_Click" Background="{StaticResource Top_Color}"
+                        Foreground="{StaticResource Font_White_Color}"/>
+                <TextBox Margin="2" x:Name="TB_ADD_Title" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Text="제목"/>
+                <TextBox Margin="2" x:Name="TB_ADD_Writer" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Text="저자"/>
+                <TextBox Margin="2" x:Name="TB_ADD_Price" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Text="가격"/>
+                <TextBox Margin="2" x:Name="TB_ADD_Publisher" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Text="출판사"/>
+                <TextBox Margin="2" x:Name="TB_ADD_ISBN" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Text="ISBN"/>
+                <TextBox Margin="2" x:Name="TB_ADD_Position" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" Text="위치"/>
+                <TextBox Margin="2" x:Name="TB_ADD_Pages" Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2" Text="페이지수"/>
+                <ComboBox  x:Name="CB_Sort" Margin="2" Grid.Column="0" Grid.Row="8" >
+                    <ComboBoxItem x:Name="CB_Sort_1" Content="미분류" IsSelected="True"/>
+                    <ComboBoxItem x:Name="CB_Sort_2" Content="인문"/>
+                    <ComboBoxItem x:Name="CB_Sort_3" Content="소설"/>
+                    <ComboBoxItem x:Name="CB_Sort_4" Content="시/에세이"/>
+                    <ComboBoxItem x:Name="CB_Sort_5" Content="역사/문화"/>
+                    <ComboBoxItem x:Name="CB_Sort_6" Content="예술/대중문화"/>
+                    <ComboBoxItem x:Name="CB_Sort_7" Content="정치/사회"/>
+                    <ComboBoxItem x:Name="CB_Sort_8" Content="경제/경영"/>
+                    <ComboBoxItem x:Name="CB_Sort_9" Content="수학/과학"/>
+                    <ComboBoxItem x:Name="CB_Sort_10" Content="자기계발"/>
+                </ComboBox>
+                <Grid Grid.Row="9" Grid.Column="0" Grid.ColumnSpan="2">
+                    <Button Margin="81,4,183,0" x:Name="Save" Width="100"  Content="저장" Click="Save_Click" Background="{StaticResource Top_Color}"
+                        Foreground="{StaticResource Font_White_Color}"/>
+                    <Button Margin="197,4,67,0" x:Name="Cancel" Width="100" Grid.Column="0"  Content="취소" Click="Cancel_Click" Background="{StaticResource Top_Color}"
+                        Foreground="{StaticResource Font_White_Color}"/>
+                </Grid>
+                <Image Grid.Row="10" Grid.ColumnSpan="2" x:Name="img" Margin="5" Width="200"  />
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,271 @@
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\MenuButton.baml
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\SideMenu.baml
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\Users\Administrator\Desktop\MaterialMenu-master\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\도서관리555555\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\도서관리555555\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\도서관리555555\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\도서관리555555\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\도서관리555555\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\도서관리555555\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\도서관리555555\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도서관리555555\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\도서관리555555\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\도서관리555555\MaterialMenu\obj\Debug\MenuButton.baml
+C:\도서관리555555\MaterialMenu\obj\Debug\SideMenu.baml
+C:\도서관리555555\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\도서관리555555\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\도서관리555555\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\도서관리555555\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\도서관리555555\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\도서관리555555\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\MenuButton.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\SideMenu.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\도8400~1\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\도8400~1\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\도8400~1\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\도8400~1\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\도8400~1\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\도8400~1\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도8400~1\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\도8400~1\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\도8400~1\MaterialMenu\obj\Debug\MenuButton.baml
+C:\도8400~1\MaterialMenu\obj\Debug\SideMenu.baml
+C:\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\도8400~1\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\MenuButton.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\SideMenu.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\도B5AA~1\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\도B5AA~1\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\도B5AA~1\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\도B5AA~1\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\도B5AA~1\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\도B5AA~1\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\도B5AA~1\MaterialMenu\obj\Debug\MenuButton.baml
+C:\도B5AA~1\MaterialMenu\obj\Debug\SideMenu.baml
+C:\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\도B5AA~1\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\도B5AA~1 (2)\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\도B5AA~1 (2)\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\도B5AA~1 (2)\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\MenuButton.baml
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\SideMenu.baml
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\도B5AA~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\MenuButton.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\SideMenu.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\도B5AA~3\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\도B5AA~3\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\도B5AA~3\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\도B5AA~3\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\도B5AA~3\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\도B5AA~3\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\도B5AA~3\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도B5AA~3\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\도B5AA~3\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\도B5AA~3\MaterialMenu\obj\Debug\MenuButton.baml
+C:\도B5AA~3\MaterialMenu\obj\Debug\SideMenu.baml
+C:\도B5AA~3\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\도B5AA~3\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\도B5AA~3\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\도B5AA~3\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\도B5AA~3\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\도B5AA~3\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\도B5AA~3 (2)\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\도B5AA~3 (2)\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\도B5AA~3 (2)\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\MenuButton.baml
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\SideMenu.baml
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\도B5AA~3 (2)\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\MenuButton.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\SideMenu.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\MenuButton.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\SideMenu.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\차트넣~1\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\차트넣~1\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\차트넣~1\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\차트넣~1\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\차트넣~1\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\차트넣~1\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\차트넣~1\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\차트넣~1\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\차트넣~1\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\차트넣~1\MaterialMenu\obj\Debug\MenuButton.baml
+C:\차트넣~1\MaterialMenu\obj\Debug\SideMenu.baml
+C:\차트넣~1\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\차트넣~1\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\차트넣~1\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\차트넣~1\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\차트넣~1\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\차트넣~1\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\차트넣~1 (2)\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\차트넣~1 (2)\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\차트넣~1 (2)\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\MenuButton.baml
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\SideMenu.baml
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\차트넣~1 (2)\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\BookManager\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\BookManager\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\BookManager\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\BookManager\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\BookManager\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\BookManager\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\BookManager\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\BookManager\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\BookManager\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\BookManager\MaterialMenu\obj\Debug\MenuButton.baml
+C:\BookManager\MaterialMenu\obj\Debug\SideMenu.baml
+C:\BookManager\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\BookManager\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\BookManager\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\BookManager\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\BookManager\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\BookManager\MaterialMenu\obj\Debug\MaterialMenu.pdb
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\bin\Debug\MaterialMenu.dll.config
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\bin\Debug\MaterialMenu.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\bin\Debug\MaterialMenu.pdb
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\MaterialMenu.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\MenuButton.g.cs
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\SideMenu.g.cs
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.cache
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\MaterialMenu_MarkupCompile.lref
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\MenuButton.baml
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\SideMenu.baml
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\MaterialMenu.g.resources
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\MaterialMenu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\MaterialMenu.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\MaterialMenu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\MaterialMenu.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\MaterialMenu\obj\Debug\MaterialMenu.pdb

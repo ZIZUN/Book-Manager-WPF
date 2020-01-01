@@ -1,0 +1,175 @@
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\Test.exe.config
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\MaterialMenu.dll
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\MaterialMenu.pdb
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\MaterialMenu.dll.config
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\Test.g.resources
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\Test.exe
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\Test.pdb
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\Test_Content.g.cs
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\BookAdd.g.cs
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\BookSetting.g.cs
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\SQLite-net.dll
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\bin\Debug\SQLite-net.xml
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\BookAdd.baml
+C:\Users\Administrator\Desktop\MaterialMenu-master\Test\obj\Debug\BookSetting.baml
+C:\도서관리555555\Test\bin\Debug\x86\e_sqlite3.dll
+C:\도서관리555555\Test\bin\Debug\x64\e_sqlite3.dll
+C:\도서관리555555\Test\bin\Debug\Test.exe.config
+C:\도서관리555555\Test\bin\Debug\Test.exe
+C:\도서관리555555\Test\bin\Debug\Test.pdb
+C:\도서관리555555\Test\bin\Debug\MaterialMenu.dll
+C:\도서관리555555\Test\bin\Debug\Newtonsoft.Json.dll
+C:\도서관리555555\Test\bin\Debug\SQLite-net.dll
+C:\도서관리555555\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\도서관리555555\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\도서관리555555\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\도서관리555555\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\도서관리555555\Test\bin\Debug\MaterialMenu.pdb
+C:\도서관리555555\Test\bin\Debug\MaterialMenu.dll.config
+C:\도서관리555555\Test\bin\Debug\Newtonsoft.Json.xml
+C:\도서관리555555\Test\bin\Debug\SQLite-net.xml
+C:\도서관리555555\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\도서관리555555\Test\obj\Debug\BookAdd.g.cs
+C:\도서관리555555\Test\obj\Debug\BookSetting.g.cs
+C:\도서관리555555\Test\obj\Debug\MainWindow.g.cs
+C:\도서관리555555\Test\obj\Debug\App.g.cs
+C:\도서관리555555\Test\obj\Debug\Test_Content.g.cs
+C:\도서관리555555\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도서관리555555\Test\obj\Debug\Test_MarkupCompile.cache
+C:\도서관리555555\Test\obj\Debug\Test_MarkupCompile.lref
+C:\도서관리555555\Test\obj\Debug\BookAdd.baml
+C:\도서관리555555\Test\obj\Debug\BookSetting.baml
+C:\도서관리555555\Test\obj\Debug\MainWindow.baml
+C:\도서관리555555\Test\obj\Debug\Test.g.resources
+C:\도서관리555555\Test\obj\Debug\Test.Properties.Resources.resources
+C:\도서관리555555\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\도서관리555555\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\도서관리555555\Test\obj\Debug\Test.csproj.CopyComplete
+C:\도서관리555555\Test\obj\Debug\Test.exe
+C:\도서관리555555\Test\obj\Debug\Test.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\x86\e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\x64\e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\Test.exe.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\Test.exe
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\Test.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\SQLite-net.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\MaterialMenu.dll.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\bin\Debug\SQLite-net.xml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\BookAdd.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\BookSetting.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\MainWindow.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\App.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\Test_Content.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\BookAdd.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\BookSetting.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\MainWindow.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\Test.g.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\Test.exe
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도8400~1\Test\obj\Debug\Test.pdb
+C:\도8400~1\Test\bin\Debug\x86\e_sqlite3.dll
+C:\도8400~1\Test\bin\Debug\x64\e_sqlite3.dll
+C:\도8400~1\Test\bin\Debug\Test.exe.config
+C:\도8400~1\Test\bin\Debug\Test.exe
+C:\도8400~1\Test\bin\Debug\Test.pdb
+C:\도8400~1\Test\bin\Debug\MaterialMenu.dll
+C:\도8400~1\Test\bin\Debug\Newtonsoft.Json.dll
+C:\도8400~1\Test\bin\Debug\SQLite-net.dll
+C:\도8400~1\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\도8400~1\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\도8400~1\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\도8400~1\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\도8400~1\Test\bin\Debug\MaterialMenu.pdb
+C:\도8400~1\Test\bin\Debug\MaterialMenu.dll.config
+C:\도8400~1\Test\bin\Debug\Newtonsoft.Json.xml
+C:\도8400~1\Test\bin\Debug\SQLite-net.xml
+C:\도8400~1\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\도8400~1\Test\obj\Debug\BookAdd.g.cs
+C:\도8400~1\Test\obj\Debug\BookSetting.g.cs
+C:\도8400~1\Test\obj\Debug\MainWindow.g.cs
+C:\도8400~1\Test\obj\Debug\App.g.cs
+C:\도8400~1\Test\obj\Debug\Test_Content.g.cs
+C:\도8400~1\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도8400~1\Test\obj\Debug\Test_MarkupCompile.cache
+C:\도8400~1\Test\obj\Debug\Test_MarkupCompile.lref
+C:\도8400~1\Test\obj\Debug\BookAdd.baml
+C:\도8400~1\Test\obj\Debug\BookSetting.baml
+C:\도8400~1\Test\obj\Debug\MainWindow.baml
+C:\도8400~1\Test\obj\Debug\Test.g.resources
+C:\도8400~1\Test\obj\Debug\Test.Properties.Resources.resources
+C:\도8400~1\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\도8400~1\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\도8400~1\Test\obj\Debug\Test.csproj.CopyComplete
+C:\도8400~1\Test\obj\Debug\Test.exe
+C:\도8400~1\Test\obj\Debug\Test.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\x86\e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\x64\e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\Test.exe.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\Test.exe
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\Test.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\SQLite-net.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\MaterialMenu.dll.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\bin\Debug\SQLite-net.xml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\BookAdd.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\BookSetting.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\MainWindow.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\App.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\Test_Content.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\BookAdd.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\BookSetting.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\MainWindow.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\Test.g.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\Test.exe
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1\Test\obj\Debug\Test.pdb

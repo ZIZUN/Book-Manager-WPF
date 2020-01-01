@@ -1,0 +1,423 @@
+C:\도B5AA~1\Test\bin\Debug\x86\e_sqlite3.dll
+C:\도B5AA~1\Test\bin\Debug\x64\e_sqlite3.dll
+C:\도B5AA~1\Test\bin\Debug\Test.exe.config
+C:\도B5AA~1\Test\bin\Debug\Test.exe
+C:\도B5AA~1\Test\bin\Debug\Test.pdb
+C:\도B5AA~1\Test\bin\Debug\MaterialMenu.dll
+C:\도B5AA~1\Test\bin\Debug\Newtonsoft.Json.dll
+C:\도B5AA~1\Test\bin\Debug\SQLite-net.dll
+C:\도B5AA~1\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\도B5AA~1\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\도B5AA~1\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\도B5AA~1\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\도B5AA~1\Test\bin\Debug\MaterialMenu.pdb
+C:\도B5AA~1\Test\bin\Debug\MaterialMenu.dll.config
+C:\도B5AA~1\Test\bin\Debug\Newtonsoft.Json.xml
+C:\도B5AA~1\Test\bin\Debug\SQLite-net.xml
+C:\도B5AA~1\Test\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\도B5AA~1\Test\obj\Debug\BookAdd.g.cs
+C:\도B5AA~1\Test\obj\Debug\BookSetting.g.cs
+C:\도B5AA~1\Test\obj\Debug\MainWindow.g.cs
+C:\도B5AA~1\Test\obj\Debug\App.g.cs
+C:\도B5AA~1\Test\obj\Debug\Test_Content.g.cs
+C:\도B5AA~1\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도B5AA~1\Test\obj\Debug\Test_MarkupCompile.cache
+C:\도B5AA~1\Test\obj\Debug\Test_MarkupCompile.lref
+C:\도B5AA~1\Test\obj\Debug\BookAdd.baml
+C:\도B5AA~1\Test\obj\Debug\BookSetting.baml
+C:\도B5AA~1\Test\obj\Debug\MainWindow.baml
+C:\도B5AA~1\Test\obj\Debug\Test.g.resources
+C:\도B5AA~1\Test\obj\Debug\Test.Properties.Resources.resources
+C:\도B5AA~1\Test\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\도B5AA~1\Test\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\도B5AA~1\Test\obj\Debug\BookManager.csproj.CopyComplete
+C:\도B5AA~1\Test\obj\Debug\Test.exe
+C:\도B5AA~1\Test\obj\Debug\Test.pdb
+C:\도B5AA~1 (2)\Test\bin\Debug\x86\e_sqlite3.dll
+C:\도B5AA~1 (2)\Test\bin\Debug\x64\e_sqlite3.dll
+C:\도B5AA~1 (2)\Test\bin\Debug\Test.exe.config
+C:\도B5AA~1 (2)\Test\bin\Debug\Test.exe
+C:\도B5AA~1 (2)\Test\bin\Debug\Test.pdb
+C:\도B5AA~1 (2)\Test\bin\Debug\MaterialMenu.dll
+C:\도B5AA~1 (2)\Test\bin\Debug\Newtonsoft.Json.dll
+C:\도B5AA~1 (2)\Test\bin\Debug\SQLite-net.dll
+C:\도B5AA~1 (2)\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\도B5AA~1 (2)\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\도B5AA~1 (2)\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\도B5AA~1 (2)\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\도B5AA~1 (2)\Test\bin\Debug\MaterialMenu.pdb
+C:\도B5AA~1 (2)\Test\bin\Debug\MaterialMenu.dll.config
+C:\도B5AA~1 (2)\Test\bin\Debug\Newtonsoft.Json.xml
+C:\도B5AA~1 (2)\Test\bin\Debug\SQLite-net.xml
+C:\도B5AA~1 (2)\Test\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\도B5AA~1 (2)\Test\obj\Debug\BookAdd.g.cs
+C:\도B5AA~1 (2)\Test\obj\Debug\BookSetting.g.cs
+C:\도B5AA~1 (2)\Test\obj\Debug\MainWindow.g.cs
+C:\도B5AA~1 (2)\Test\obj\Debug\App.g.cs
+C:\도B5AA~1 (2)\Test\obj\Debug\Test_Content.g.cs
+C:\도B5AA~1 (2)\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도B5AA~1 (2)\Test\obj\Debug\Test_MarkupCompile.cache
+C:\도B5AA~1 (2)\Test\obj\Debug\Test_MarkupCompile.lref
+C:\도B5AA~1 (2)\Test\obj\Debug\BookAdd.baml
+C:\도B5AA~1 (2)\Test\obj\Debug\BookSetting.baml
+C:\도B5AA~1 (2)\Test\obj\Debug\MainWindow.baml
+C:\도B5AA~1 (2)\Test\obj\Debug\Test.g.resources
+C:\도B5AA~1 (2)\Test\obj\Debug\Test.Properties.Resources.resources
+C:\도B5AA~1 (2)\Test\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\도B5AA~1 (2)\Test\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\도B5AA~1 (2)\Test\obj\Debug\BookManager.csproj.CopyComplete
+C:\도B5AA~1 (2)\Test\obj\Debug\Test.exe
+C:\도B5AA~1 (2)\Test\obj\Debug\Test.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\x86\e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\x64\e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\Test.exe.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\Test.exe
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\Test.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\SQLite-net.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\MaterialMenu.dll.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\bin\Debug\SQLite-net.xml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\BookAdd.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\BookSetting.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\MainWindow.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\App.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\Test_Content.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\BookAdd.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\BookSetting.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\MainWindow.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\Test.g.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\Test.exe
+C:\Users\kwan7\Documents\카카오톡 받은 파일\도B5AA~1 (2) (2)\Test\obj\Debug\Test.pdb
+C:\도B5AA~3\Test\bin\Debug\x86\e_sqlite3.dll
+C:\도B5AA~3\Test\bin\Debug\x64\e_sqlite3.dll
+C:\도B5AA~3\Test\bin\Debug\Test.exe.config
+C:\도B5AA~3\Test\bin\Debug\Test.exe
+C:\도B5AA~3\Test\bin\Debug\Test.pdb
+C:\도B5AA~3\Test\bin\Debug\MaterialMenu.dll
+C:\도B5AA~3\Test\bin\Debug\Newtonsoft.Json.dll
+C:\도B5AA~3\Test\bin\Debug\SQLite-net.dll
+C:\도B5AA~3\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\도B5AA~3\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\도B5AA~3\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\도B5AA~3\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\도B5AA~3\Test\bin\Debug\MaterialMenu.pdb
+C:\도B5AA~3\Test\bin\Debug\MaterialMenu.dll.config
+C:\도B5AA~3\Test\bin\Debug\Newtonsoft.Json.xml
+C:\도B5AA~3\Test\bin\Debug\SQLite-net.xml
+C:\도B5AA~3\Test\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\도B5AA~3\Test\obj\Debug\BookAdd.g.cs
+C:\도B5AA~3\Test\obj\Debug\BookSetting.g.cs
+C:\도B5AA~3\Test\obj\Debug\MainWindow.g.cs
+C:\도B5AA~3\Test\obj\Debug\App.g.cs
+C:\도B5AA~3\Test\obj\Debug\Test_Content.g.cs
+C:\도B5AA~3\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도B5AA~3\Test\obj\Debug\Test_MarkupCompile.cache
+C:\도B5AA~3\Test\obj\Debug\Test_MarkupCompile.lref
+C:\도B5AA~3\Test\obj\Debug\BookAdd.baml
+C:\도B5AA~3\Test\obj\Debug\BookSetting.baml
+C:\도B5AA~3\Test\obj\Debug\MainWindow.baml
+C:\도B5AA~3\Test\obj\Debug\Test.g.resources
+C:\도B5AA~3\Test\obj\Debug\Test.Properties.Resources.resources
+C:\도B5AA~3\Test\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\도B5AA~3\Test\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\도B5AA~3\Test\obj\Debug\BookManager.csproj.CopyComplete
+C:\도B5AA~3\Test\obj\Debug\Test.exe
+C:\도B5AA~3\Test\obj\Debug\Test.pdb
+C:\도B5AA~3\Test\obj\Debug\LockSetting.g.cs
+C:\도B5AA~3\Test\obj\Debug\LockSetting.baml
+C:\도B5AA~3\Test\obj\Debug\Lock.g.cs
+C:\도B5AA~3\Test\obj\Debug\Lock.baml
+C:\도B5AA~3 (2)\Test\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\도B5AA~3 (2)\Test\obj\Debug\BookAdd.g.cs
+C:\도B5AA~3 (2)\Test\obj\Debug\BookSetting.g.cs
+C:\도B5AA~3 (2)\Test\obj\Debug\Lock.g.cs
+C:\도B5AA~3 (2)\Test\obj\Debug\LockSetting.g.cs
+C:\도B5AA~3 (2)\Test\obj\Debug\MainWindow.g.cs
+C:\도B5AA~3 (2)\Test\obj\Debug\App.g.cs
+C:\도B5AA~3 (2)\Test\obj\Debug\Test_Content.g.cs
+C:\도B5AA~3 (2)\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\도B5AA~3 (2)\Test\obj\Debug\Test_MarkupCompile.cache
+C:\도B5AA~3 (2)\Test\obj\Debug\Test_MarkupCompile.lref
+C:\도B5AA~3 (2)\Test\obj\Debug\Test.exe
+C:\도B5AA~3 (2)\Test\obj\Debug\Test.pdb
+C:\도B5AA~3 (2)\Test\bin\Debug\x86\e_sqlite3.dll
+C:\도B5AA~3 (2)\Test\bin\Debug\x64\e_sqlite3.dll
+C:\도B5AA~3 (2)\Test\bin\Debug\Test.exe.config
+C:\도B5AA~3 (2)\Test\bin\Debug\Test.exe
+C:\도B5AA~3 (2)\Test\bin\Debug\Test.pdb
+C:\도B5AA~3 (2)\Test\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\도B5AA~3 (2)\Test\bin\Debug\MaterialMenu.dll
+C:\도B5AA~3 (2)\Test\bin\Debug\Newtonsoft.Json.dll
+C:\도B5AA~3 (2)\Test\bin\Debug\SQLite-net.dll
+C:\도B5AA~3 (2)\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\도B5AA~3 (2)\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\도B5AA~3 (2)\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\도B5AA~3 (2)\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\도B5AA~3 (2)\Test\bin\Debug\MaterialMenu.pdb
+C:\도B5AA~3 (2)\Test\bin\Debug\MaterialMenu.dll.config
+C:\도B5AA~3 (2)\Test\bin\Debug\Newtonsoft.Json.xml
+C:\도B5AA~3 (2)\Test\bin\Debug\SQLite-net.xml
+C:\도B5AA~3 (2)\Test\obj\Debug\BookAdd.baml
+C:\도B5AA~3 (2)\Test\obj\Debug\BookSetting.baml
+C:\도B5AA~3 (2)\Test\obj\Debug\Lock.baml
+C:\도B5AA~3 (2)\Test\obj\Debug\LockSetting.baml
+C:\도B5AA~3 (2)\Test\obj\Debug\MainWindow.baml
+C:\도B5AA~3 (2)\Test\obj\Debug\Test.g.resources
+C:\도B5AA~3 (2)\Test\obj\Debug\Test.Properties.Resources.resources
+C:\도B5AA~3 (2)\Test\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\도B5AA~3 (2)\Test\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\도B5AA~3 (2)\Test\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\x86\e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\x64\e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\Test.exe.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\Test.exe
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\Test.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\SQLite-net.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\MaterialMenu.dll.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\bin\Debug\SQLite-net.xml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\BookAdd.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\BookSetting.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\Lock.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\LockSetting.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\MainWindow.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\App.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\Test_Content.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\BookAdd.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\BookSetting.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\Lock.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\LockSetting.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\MainWindow.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\Test.g.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\Test.exe
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣음 ㅅㅂ\Test\obj\Debug\Test.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\x86\e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\x64\e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\Test.exe.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\Test.exe
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\Test.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\MaterialMenu.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\SQLite-net.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\MaterialMenu.pdb
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\MaterialMenu.dll.config
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\bin\Debug\SQLite-net.xml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\BookAdd.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\BookSetting.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\Lock.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\LockSetting.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\MainWindow.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\App.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\Test_Content.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\BookAdd.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\BookSetting.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\Lock.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\LockSetting.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\MainWindow.baml
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\Test.g.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\Test.exe
+C:\Users\kwan7\Documents\카카오톡 받은 파일\차트넣~4 (2)\Test\obj\Debug\Test.pdb
+C:\차트넣~1\Test\bin\Debug\x86\e_sqlite3.dll
+C:\차트넣~1\Test\bin\Debug\x64\e_sqlite3.dll
+C:\차트넣~1\Test\bin\Debug\Test.exe.config
+C:\차트넣~1\Test\bin\Debug\Test.exe
+C:\차트넣~1\Test\bin\Debug\Test.pdb
+C:\차트넣~1\Test\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\차트넣~1\Test\bin\Debug\MaterialMenu.dll
+C:\차트넣~1\Test\bin\Debug\Newtonsoft.Json.dll
+C:\차트넣~1\Test\bin\Debug\SQLite-net.dll
+C:\차트넣~1\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\차트넣~1\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\차트넣~1\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\차트넣~1\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\차트넣~1\Test\bin\Debug\MaterialMenu.pdb
+C:\차트넣~1\Test\bin\Debug\MaterialMenu.dll.config
+C:\차트넣~1\Test\bin\Debug\Newtonsoft.Json.xml
+C:\차트넣~1\Test\bin\Debug\SQLite-net.xml
+C:\차트넣~1\Test\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\차트넣~1\Test\obj\Debug\BookAdd.g.cs
+C:\차트넣~1\Test\obj\Debug\BookSetting.g.cs
+C:\차트넣~1\Test\obj\Debug\Lock.g.cs
+C:\차트넣~1\Test\obj\Debug\LockSetting.g.cs
+C:\차트넣~1\Test\obj\Debug\MainWindow.g.cs
+C:\차트넣~1\Test\obj\Debug\App.g.cs
+C:\차트넣~1\Test\obj\Debug\Test_Content.g.cs
+C:\차트넣~1\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\차트넣~1\Test\obj\Debug\Test_MarkupCompile.cache
+C:\차트넣~1\Test\obj\Debug\Test_MarkupCompile.lref
+C:\차트넣~1\Test\obj\Debug\BookAdd.baml
+C:\차트넣~1\Test\obj\Debug\BookSetting.baml
+C:\차트넣~1\Test\obj\Debug\Lock.baml
+C:\차트넣~1\Test\obj\Debug\LockSetting.baml
+C:\차트넣~1\Test\obj\Debug\MainWindow.baml
+C:\차트넣~1\Test\obj\Debug\Test.g.resources
+C:\차트넣~1\Test\obj\Debug\Test.Properties.Resources.resources
+C:\차트넣~1\Test\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\차트넣~1\Test\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\차트넣~1\Test\obj\Debug\BookManager.csproj.CopyComplete
+C:\차트넣~1\Test\obj\Debug\Test.exe
+C:\차트넣~1\Test\obj\Debug\Test.pdb
+C:\차트넣~1 (2)\Test\obj\Debug\BookAdd.g.cs
+C:\차트넣~1 (2)\Test\obj\Debug\BookSetting.g.cs
+C:\차트넣~1 (2)\Test\obj\Debug\Lock.g.cs
+C:\차트넣~1 (2)\Test\obj\Debug\LockSetting.g.cs
+C:\차트넣~1 (2)\Test\obj\Debug\App.g.cs
+C:\차트넣~1 (2)\Test\obj\Debug\Test_Content.g.cs
+C:\차트넣~1 (2)\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\차트넣~1 (2)\Test\obj\Debug\Test_MarkupCompile.cache
+C:\차트넣~1 (2)\Test\obj\Debug\Test_MarkupCompile.lref
+C:\차트넣~1 (2)\Test\obj\Debug\Test.exe
+C:\차트넣~1 (2)\Test\obj\Debug\Test.pdb
+C:\차트넣~1 (2)\Test\bin\Debug\x86\e_sqlite3.dll
+C:\차트넣~1 (2)\Test\bin\Debug\x64\e_sqlite3.dll
+C:\차트넣~1 (2)\Test\bin\Debug\Test.exe.config
+C:\차트넣~1 (2)\Test\bin\Debug\Test.exe
+C:\차트넣~1 (2)\Test\bin\Debug\Test.pdb
+C:\차트넣~1 (2)\Test\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\차트넣~1 (2)\Test\bin\Debug\MaterialMenu.dll
+C:\차트넣~1 (2)\Test\bin\Debug\Newtonsoft.Json.dll
+C:\차트넣~1 (2)\Test\bin\Debug\SQLite-net.dll
+C:\차트넣~1 (2)\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\차트넣~1 (2)\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\차트넣~1 (2)\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\차트넣~1 (2)\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\차트넣~1 (2)\Test\bin\Debug\MaterialMenu.pdb
+C:\차트넣~1 (2)\Test\bin\Debug\MaterialMenu.dll.config
+C:\차트넣~1 (2)\Test\bin\Debug\Newtonsoft.Json.xml
+C:\차트넣~1 (2)\Test\bin\Debug\SQLite-net.xml
+C:\차트넣~1 (2)\Test\obj\Debug\MainWindow.g.cs
+C:\차트넣~1 (2)\Test\obj\Debug\BookAdd.baml
+C:\차트넣~1 (2)\Test\obj\Debug\BookSetting.baml
+C:\차트넣~1 (2)\Test\obj\Debug\Lock.baml
+C:\차트넣~1 (2)\Test\obj\Debug\LockSetting.baml
+C:\차트넣~1 (2)\Test\obj\Debug\MainWindow.baml
+C:\차트넣~1 (2)\Test\obj\Debug\Test.g.resources
+C:\차트넣~1 (2)\Test\obj\Debug\Test.Properties.Resources.resources
+C:\차트넣~1 (2)\Test\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\차트넣~1 (2)\Test\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\차트넣~1 (2)\Test\obj\Debug\BookManager.csproj.CopyComplete
+C:\BookManager\Test\bin\Debug\x86\e_sqlite3.dll
+C:\BookManager\Test\bin\Debug\x64\e_sqlite3.dll
+C:\BookManager\Test\bin\Debug\Test.exe.config
+C:\BookManager\Test\bin\Debug\Test.exe
+C:\BookManager\Test\bin\Debug\Test.pdb
+C:\BookManager\Test\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\BookManager\Test\bin\Debug\MaterialMenu.dll
+C:\BookManager\Test\bin\Debug\Newtonsoft.Json.dll
+C:\BookManager\Test\bin\Debug\SQLite-net.dll
+C:\BookManager\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\BookManager\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\BookManager\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\BookManager\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\BookManager\Test\bin\Debug\MaterialMenu.pdb
+C:\BookManager\Test\bin\Debug\MaterialMenu.dll.config
+C:\BookManager\Test\bin\Debug\Newtonsoft.Json.xml
+C:\BookManager\Test\bin\Debug\SQLite-net.xml
+C:\BookManager\Test\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\BookManager\Test\obj\Debug\BookAdd.g.cs
+C:\BookManager\Test\obj\Debug\BookSetting.g.cs
+C:\BookManager\Test\obj\Debug\Lock.g.cs
+C:\BookManager\Test\obj\Debug\LockSetting.g.cs
+C:\BookManager\Test\obj\Debug\MainWindow.g.cs
+C:\BookManager\Test\obj\Debug\App.g.cs
+C:\BookManager\Test\obj\Debug\Test_Content.g.cs
+C:\BookManager\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\BookManager\Test\obj\Debug\Test_MarkupCompile.cache
+C:\BookManager\Test\obj\Debug\Test_MarkupCompile.lref
+C:\BookManager\Test\obj\Debug\BookAdd.baml
+C:\BookManager\Test\obj\Debug\BookSetting.baml
+C:\BookManager\Test\obj\Debug\Lock.baml
+C:\BookManager\Test\obj\Debug\LockSetting.baml
+C:\BookManager\Test\obj\Debug\MainWindow.baml
+C:\BookManager\Test\obj\Debug\Test.g.resources
+C:\BookManager\Test\obj\Debug\Test.Properties.Resources.resources
+C:\BookManager\Test\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\BookManager\Test\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\BookManager\Test\obj\Debug\BookManager.csproj.CopyComplete
+C:\BookManager\Test\obj\Debug\Test.exe
+C:\BookManager\Test\obj\Debug\Test.pdb
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\Test.exe.config
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\MaterialMenu.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\SQLite-net.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\MaterialMenu.pdb
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\MaterialMenu.dll.config
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\bin\Debug\SQLite-net.xml
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\BookAdd.g.cs
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\BookSetting.g.cs
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\Lock.g.cs
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\LockSetting.g.cs
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\Test_Content.g.cs
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\BookAdd.baml
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\BookSetting.baml
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\Lock.baml
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\LockSetting.baml
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\Test.g.resources
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\Test.exe
+C:\Users\Administrator\Desktop\강의자료\2학년1학기\윈도우즈프로그래밍\프로젝트\BookManager\Test\obj\Debug\Test.pdb

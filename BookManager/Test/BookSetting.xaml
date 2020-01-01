@@ -1,0 +1,59 @@
+﻿<Window x:Class="Test.BookSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        FontFamily="Calibri"
+        FontSize="16"
+        ResizeMode="NoResize" Icon="save.png" WindowStyle="None"
+        Title="BookAdd" Height="241.619" Width="355.137">
+    <Window.Resources>
+        <SolidColorBrush Color="#FF6969FF" x:Key="Top_Color"/>
+        <SolidColorBrush Color="#FFEAEAFF" x:Key="Top2_Color"/>
+        <SolidColorBrush Color="#FFA5B9F0" x:Key="Overall_Color"/>
+        <SolidColorBrush Color="White" x:Key="Font_White_Color"/>
+
+    </Window.Resources>
+
+    <Grid>
+        <StackPanel  Background="{StaticResource Overall_Color}">
+            <Grid Height="30" VerticalAlignment="Top" Background="{StaticResource Top_Color}" MouseDown="Grid_MouseDown">
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="Adder" FontSize="21" Foreground="{StaticResource Font_White_Color}"/>
+
+            </Grid>
+            <Grid Margin="5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="6*"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <TextBox x:Name="TB_SETTING_Title" Text="제목" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"/>
+                <TextBox x:Name="TB_SETTING_Writer" Text="저자" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"/>
+                <TextBox x:Name="TB_SETTING_Price" Text="가격"  Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"/>
+                <TextBox x:Name="TB_SETTING_Publisher"  Text="출판사" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2"/>
+                <TextBox x:Name="TB_SETTING_ISBN"  Text="ISBN" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2"/>
+                <TextBox x:Name="TB_SETTING_Position"  Text="위치" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2"/>
+                <TextBox x:Name="TB_SETTING_Pages"  Text="페이지수" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2"/>
+                <TextBox x:Name="TB_SETTING_Rental"  Text="대여 여부" Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2"/>
+
+                <Button x:Name="Set" Content="수정" Click="Set_Click" Grid.Row="8" Grid.Column="0" Grid.ColumnSpan="2" Background="{StaticResource Top_Color}"
+                        Foreground="{StaticResource Font_White_Color}"/>
+
+            </Grid>
+        </StackPanel>
+    </Grid>
+
+</Window>

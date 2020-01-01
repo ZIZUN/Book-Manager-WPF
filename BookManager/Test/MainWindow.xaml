@@ -1,0 +1,333 @@
+﻿<Window x:Class="Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialMenu="clr-namespace:MaterialMenu;assembly=MaterialMenu"
+        xmlns:MetroChart="clr-namespace:De.TorstenMandelkow.MetroChart;assembly=De.TorstenMandelkow.MetroChart"
+        xmlns:local="clr-namespace:Test"
+        mc:Ignorable="d"
+        xmlns:sdd="clr-namespace:Test.Classes"
+        Title="" Height="883.5" Width="1285"
+        WindowStartupLocation="CenterScreen"
+        FontFamily="Calibri"
+        FontSize="16"
+        Foreground="WhiteSmoke" ResizeMode="NoResize" Icon="save.png" WindowStyle="None" >
+    <Window.Resources>
+        <sdd:BookInformationBinding x:Key="BookInformationBinding"/>
+        <SolidColorBrush Color="#FF6969FF" x:Key="Top_Color" />
+        <SolidColorBrush Color="#FFEAEAFF" x:Key="Top2_Color"/>
+        <SolidColorBrush Color="#FFA5B9F0" x:Key="Overall_Color"/>
+        <SolidColorBrush Color="White" x:Key="Font_White_Color"/>
+        
+    </Window.Resources>
+    <Grid>
+        
+        <StackPanel>
+            
+            <Grid Height="30" VerticalAlignment="Top" Background="{StaticResource Top_Color}" MouseDown="Grid_MouseDown">
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="Book Manager Ver1.0" FontSize="21"/>
+
+            </Grid>
+
+            <Grid VerticalAlignment="Bottom" Background="{StaticResource Top2_Color}">
+                <DockPanel>
+                    <Menu DockPanel.Dock="Top" Background="{StaticResource Overall_Color}" FontSize="18">
+                        <MenuItem Header="도서추가" Click="MenuItem_Click_1" Foreground="{StaticResource Top_Color}" FontWeight="Bold"/>
+                        <MenuItem Header="새로고침" Click="MenuItem_Click_2" Foreground="{StaticResource Top_Color}"  FontWeight="Bold"/>
+                    </Menu>
+                    
+                    
+                    <StackPanel DockPanel.Dock="Left" Width="312" DataContext="{StaticResource BookInformationBinding}">
+                        <Border BorderBrush="{StaticResource Top_Color}" BorderThickness="2" >
+                            <Label Content="검 색" Margin="10,0,0,0" FontWeight="Bold" FontSize="22"/>
+                        </Border>
+                        <Border BorderBrush="{StaticResource Top_Color}" BorderThickness="2" >
+                            <Grid Margin="10"  Height="350"  >
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition Height="9*"/>
+
+                                </Grid.RowDefinitions>
+                                <ComboBox x:Name="cbBox2" Margin="2" Grid.Column="0" Grid.Row="0" >
+                                    <ComboBoxItem x:Name="CBOX_Title2" Content="제목" IsSelected="True"/>
+                                    <ComboBoxItem Content="저자"/>
+                                    <ComboBoxItem Content="가격"/>
+                                    <ComboBoxItem Content="ISBN"/>
+                                    <ComboBoxItem Content="위치"/>
+                                    <ComboBoxItem Content="페이지수"/>
+                                    <ComboBoxItem Content="출판사"/>
+                                    <ComboBoxItem Content="대여 여부"/>
+                                </ComboBox>
+
+                                <TextBox Margin="2" x:Name="TB_Search2" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="3"/>
+                                <Button   Margin="2"  x:Name="BNT_Search2" Grid.Row="0" Grid.Column="4" Content="검색" Click="BNT_Search_Click" Background="{StaticResource Top_Color}"
+                                      Foreground="{StaticResource Font_White_Color}"/>
+
+
+                                <ListView Width="280"  Margin="5" x:Name="LvUsers2"  Grid.Column="0" Grid.Row="1" Grid.RowSpan="4" Grid.ColumnSpan="5"
+                      Panel.ZIndex="1" GridViewColumnHeader.Click="LvUsers_Click" SelectionChanged="LvUsers_SelectionChanged"  >
+                                    <ListView.ContextMenu>
+                                        <ContextMenu>
+                                            <MenuItem Header="검색" Click="MenuItem_Click_4"/>
+                                            <MenuItem Header="삭제" Click="MenuItem_Click"/>
+                                            <MenuItem Header="대출" Click="MenuItem_Rental"/>
+                                            <MenuItem Header="반납" Click="MenuItem_Rental"/>
+                                            <MenuItem x:Name="MENU_Setting2" Header="수정" Click="MenuItem_Click_3"/>
+
+                                        </ContextMenu>
+                                    </ListView.ContextMenu>
+
+                                    <ListView.View>
+                                        <GridView >
+                                            <GridViewColumn Header="제목" Width="70" DisplayMemberBinding="{Binding Title}" />
+                                            <GridViewColumn Header="저자" Width="70" DisplayMemberBinding="{Binding Writer}" />
+                                            <GridViewColumn Header="출판사" Width="70" DisplayMemberBinding="{Binding Publisher}" />
+                                            <GridViewColumn Header="가격" Width="70" DisplayMemberBinding="{Binding Price}" />
+                                            <GridViewColumn Header="ISBN" Width="70" DisplayMemberBinding="{Binding ISBN}" />
+                                            <GridViewColumn Header="위치" Width="70" DisplayMemberBinding="{Binding Position}" />
+                                            <GridViewColumn Header="페이지수" Width="70" DisplayMemberBinding="{Binding Pages}" />
+                                            <GridViewColumn Header="대여 여부" Width="70" DisplayMemberBinding="{Binding Rental}" />
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+
+                                <StackPanel Grid.Column="2" Grid.Row="2" Grid.ColumnSpan="3" Grid.RowSpan="3" Panel.ZIndex="0">
+
+                                    <Label x:Name="LB_Title2" />
+                                    <Label x:Name="LB_Link2"/>
+                                    <Label x:Name="LB_Author2"/>
+                                    <Label x:Name="LB_Price2"/>
+                                    <Label x:Name="LB_DiscountPrice2"/>
+                                    <Label x:Name="LB_Publisher2"/>
+                                    <Label x:Name="LB_Pubdate2"/>
+                                    <Label x:Name="LB_ISBN2"/>
+                                    <Label x:Name="LB_Description2"/>
+                                    <Label x:Name="Trigger_kiwan" Content="kiwan" Visibility="Collapsed"/>
+                                </StackPanel>
+                            </Grid>
+                        </Border>
+                        <Border BorderBrush="{StaticResource Top_Color}" BorderThickness="2" >
+                            <Label Content="도서 리스트" Margin="10,0,0,0" FontWeight="Bold" FontSize="22"/>
+                        </Border>
+                        <Border BorderBrush="{StaticResource Top_Color}" BorderThickness="2">
+                            <Grid Margin="10">
+                                <local:DendencyTreeview DeTreeview="{Binding ElementName=Trigger_kiwan, Path=Content}" Height="351" HorizontalAlignment="Center" Width="283"  >
+                                    <local:DendencyTreeview.ItemTemplate>
+                                        <DataTemplate>
+                                            <TreeViewItem Header="미지정" >
+                                                <TreeView  >
+                                                    <TreeViewItem Header="{Binding Title}"/>
+                                                </TreeView>
+                                            </TreeViewItem>
+                                        </DataTemplate>
+                                    </local:DendencyTreeview.ItemTemplate>
+                                </local:DendencyTreeview>
+                            </Grid>
+                        </Border>
+                        
+                        
+                    </StackPanel>
+
+                    <StackPanel DockPanel.Dock="Right" DataContext="{StaticResource BookInformationBinding}">
+                        <Border BorderBrush="{StaticResource Top_Color}" BorderThickness="2">
+                            <Label Content="상 세 정 보" Margin="10,0,0,0" FontWeight="Bold" FontSize="22"/>
+                        </Border>
+                        <Border BorderBrush="{StaticResource Top_Color}" BorderThickness="2">
+                            <StackPanel Orientation="Horizontal">
+                                <Grid Margin="10">
+                                    <ListBox x:Name="LB_Book_Information" Height="222" Width="747" HorizontalAlignment="Left" >
+                                        <StackPanel Orientation="Horizontal">
+                                            <ListBoxItem BorderThickness="1" BorderBrush="Black" Width="50" HorizontalContentAlignment="Center">제목</ListBoxItem>
+                                            <ListBoxItem x:Name="LBITEM_Title" ></ListBoxItem>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <ListBoxItem BorderThickness="1" BorderBrush="Black" Width="50" HorizontalContentAlignment="Center">저자</ListBoxItem>
+                                            <ListBoxItem x:Name="LBITEM_Author" ></ListBoxItem>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <ListBoxItem BorderThickness="1" BorderBrush="Black" Width="50" HorizontalContentAlignment="Center">출판사</ListBoxItem>
+                                            <ListBoxItem x:Name="LBITEM_Publisher" ></ListBoxItem>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <ListBoxItem BorderThickness="1" BorderBrush="Black" Width="50" HorizontalContentAlignment="Center">ISBN</ListBoxItem>
+                                            <ListBoxItem x:Name="LBITEM_ISBN" ></ListBoxItem>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <ListBoxItem BorderThickness="1" BorderBrush="Black" Width="50" HorizontalContentAlignment="Center">정가</ListBoxItem>
+                                            <ListBoxItem x:Name="LBITEM_Price" ></ListBoxItem>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <ListBoxItem BorderThickness="1" BorderBrush="Black" Width="50" HorizontalContentAlignment="Center">할인가</ListBoxItem>
+                                            <ListBoxItem x:Name="LBITEM_DiscountPrice" ></ListBoxItem>
+                                        </StackPanel>
+
+                                        <StackPanel Orientation="Horizontal">
+                                            <ListBoxItem BorderThickness="1" BorderBrush="Black" Width="50" HorizontalContentAlignment="Center">출판일</ListBoxItem>
+                                            <ListBoxItem x:Name="LBITEM_Pubdate" ></ListBoxItem>
+                                        </StackPanel>
+
+                                        <StackPanel Orientation="Horizontal">
+                                            <ListBoxItem BorderThickness="1" BorderBrush="Black" Width="50" HorizontalContentAlignment="Center">설명</ListBoxItem>
+                                            <ListBoxItem x:Name="LBITEM_Description" ></ListBoxItem>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <ListBoxItem BorderThickness="1" BorderBrush="Black" Width="50" HorizontalContentAlignment="Center">링크</ListBoxItem>
+                                            <ListBoxItem  x:Name="LBITEM_Link"  ></ListBoxItem>
+                                        </StackPanel>
+
+                                    </ListBox>
+                                   
+                                </Grid >
+                                <Border BorderBrush="{StaticResource Top_Color}" BorderThickness="2">
+                                    <Image x:Name="img" Width="200" Height="240"  HorizontalAlignment="Center" />
+                                </Border>
+                            </StackPanel>
+                        </Border>
+
+                        <Border BorderBrush="{StaticResource Top_Color}" BorderThickness="2">
+                            <StackPanel Orientation="Horizontal"  >
+                                <Label Content="전 체 목 록" Margin="10,0,0,0" FontWeight="Bold" FontSize="22"/>
+                                <Label Content="(총 " Margin="0,5,0,0" FontWeight="Bold" FontSize="14"/>
+                                <Label x:Name="AllBook" Content="-" Margin="0,5,0,0" FontWeight="Bold" FontSize="14"/>
+
+
+                                <Label Content="권 / 대여" Margin="0,5,0,0" FontWeight="Bold" FontSize="14"/>
+                                <Label x:Name="AllRentalBook" Content="-" Margin="0,5,0,0" FontWeight="Bold" FontSize="14"/>
+                                <Label Content="권)" Margin="0,5,0,0" FontWeight="Bold" FontSize="14"/>
+                            </StackPanel>
+                        </Border>
+                        <Border BorderBrush="{StaticResource Top_Color}" BorderThickness="2">
+                            <Grid Margin="10" Height="478" >
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition Height="9*"/>
+
+                                </Grid.RowDefinitions>
+
+
+                                <ListView ItemsSource="{Binding BooksCollection}" VerticalAlignment="Top"  x:Name="LvUsers" Height="471" Width="945" Grid.Column="0" Grid.Row="0" Grid.RowSpan="5" Grid.ColumnSpan="5"
+                      Panel.ZIndex="1" GridViewColumnHeader.Click="LvUsers_Click" SelectionChanged="LvUsers_SelectionChanged"  >
+
+                                    <ListView.View>
+                                        <GridView >
+                                            <GridViewColumn Header="제목" Width="270" DisplayMemberBinding="{Binding Title}" />
+                                            <GridViewColumn Header="저자" Width="130" DisplayMemberBinding="{Binding Writer}" />
+                                            <GridViewColumn Header="출판사" Width="120" DisplayMemberBinding="{Binding Publisher}" />
+                                            <GridViewColumn Header="가격" Width="80" DisplayMemberBinding="{Binding Price}" />
+                                            <GridViewColumn Header="ISBN" Width="200" DisplayMemberBinding="{Binding ISBN}" />
+                                            <GridViewColumn Header="위치" Width="70" DisplayMemberBinding="{Binding Position}" />
+                                            <GridViewColumn Header="페이지수" Width="70" DisplayMemberBinding="{Binding Pages}" />
+                                            <GridViewColumn Header="분류" Width="70" DisplayMemberBinding="{Binding Sort}" />
+                                            <GridViewColumn Header="대여 여부" Width="70" DisplayMemberBinding="{Binding Rental}" />
+
+
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+
+                                <StackPanel Grid.Column="2" Grid.Row="2" Grid.ColumnSpan="3" Grid.RowSpan="3" Panel.ZIndex="0">
+
+                                    <Label x:Name="LB_Title" />
+                                    <Label x:Name="LB_Link"/>
+                                    <Label x:Name="LB_Author"/>
+                                    <Label x:Name="LB_Price"/>
+                                    <Label x:Name="LB_DiscountPrice"/>
+                                    <Label x:Name="LB_Publisher"/>
+                                    <Label x:Name="LB_Pubdate"/>
+                                    <Label x:Name="LB_ISBN"/>
+                                    <Label x:Name="LB_Description"/>
+                                </StackPanel>
+                            </Grid>
+                        </Border>
+                    </StackPanel>
+                </DockPanel>
+            </Grid>
+        </StackPanel>
+
+
+        <materialMenu:SideMenu HorizontalAlignment="Left" x:Name="Menu"
+                               MenuWidth="300"
+                               Theme="Default"
+                               State="Hidden">
+            <materialMenu:SideMenu.Menu>
+                <ScrollViewer VerticalScrollBarVisibility="Hidden">
+                    <StackPanel Orientation="Vertical">
+                        <Border>
+                            <Border.Background>
+                                <ImageBrush ImageSource="Seamless-Polygon-Backgrounds-Vol2-full.jpg" Stretch="None" AlignmentX="Right"></ImageBrush>
+                            </Border.Background>
+                            <Grid Margin="10">
+                                <TextBox Height="200" BorderThickness="0" Background="Transparent" VerticalContentAlignment="Bottom" FontFamily="Calibri" FontSize="18" Foreground="WhiteSmoke" FontWeight="Bold">Menu</TextBox>
+                            </Grid>
+                        </Border>
+
+
+                        <materialMenu:MenuButton Image="boxl.png" Text="도서 추가" MouseDown="MenuButton_MouseDown_1"/>
+                        <materialMenu:MenuButton Image="orgl.png" Text="환경 설정">
+                            <materialMenu:MenuButton.Children >
+                                <materialMenu:MenuButton Image="boss.png" Text="레이아웃 변경" MouseDown="MenuButton_MouseDown_2"></materialMenu:MenuButton>
+                                <materialMenu:MenuButton Image="boss.png" Text="잠금 설정" MouseDown="MenuButton_MouseDown_4"></materialMenu:MenuButton>
+                            </materialMenu:MenuButton.Children>
+                        </materialMenu:MenuButton>
+                        
+                        <materialMenu:MenuButton Image="helpl.png" Text="제작 정보" MouseDown="MenuButton_MouseDown_3"></materialMenu:MenuButton>
+                        <materialMenu:MenuButton Image="timesl.png" Text="종료 하기" MouseDown="MenuButton_MouseDown"></materialMenu:MenuButton>
+
+                        <MetroChart:RadialGaugeChart ChartTitle="도서 현황" ChartSubTitle=" " Foreground="White" Background="Gray">
+                            <MetroChart:RadialGaugeChart.Series>
+                                <MetroChart:ChartSeries
+                                    DisplayMember="Title"
+                                    ItemsSource="{Binding Path=Chart}"
+                                    SeriesTitle="Chart"
+                                    ValueMember="Porcentagem"/>
+                            </MetroChart:RadialGaugeChart.Series>
+                        </MetroChart:RadialGaugeChart>
+
+
+                    </StackPanel>
+                </ScrollViewer>
+            </materialMenu:SideMenu.Menu>
+        </materialMenu:SideMenu>
+        <StackPanel HorizontalAlignment="Right" Width="200" Orientation="Vertical">
+            <Button Margin="10">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Height="50" Width="50" HorizontalAlignment="Right"
+                                Background="WhiteSmoke"
+                                BorderBrush="DarkGray"
+                                BorderThickness="1"
+                                MouseDown="UIElement_OnMouseDown"
+                                CornerRadius="3">
+                            <Image Source="Dark64.png" Margin="12"></Image>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </StackPanel>
+
+    </Grid>
+</Window>
